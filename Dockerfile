@@ -56,11 +56,11 @@ ARG BUILD_VERSION
 ARG VCS_REF
 
 LABEL org.label-schema.schema-version="1.0"
-LABEL org.label-schema.name="commonshost/bulldohzer"
+LABEL org.label-schema.name="arbal/bulldohzer"
 LABEL org.label-schema.description="Performance measurement and benchmarking for DNS over HTTPS and DNS over UDP resolvers"
 LABEL org.label-schema.url="https://help.commons.host/bulldohzer/"
-LABEL org.label-schema.vcs-url="https://github.com/commonshost/bulldohzer"
-LABEL org.label-schema.docker.cmd="docker run commonshost/bulldohzer --doh commonshost"
+LABEL org.label-schema.vcs-url="https://github.com/arbal/bulldohzer"
+LABEL org.label-schema.docker.cmd="docker run arbal/bulldohzer --doh commonshost"
 LABEL org.label-schema.build-date="${BUILD_DATE}"
 LABEL org.label-schema.version="${BUILD_VERSION}"
 LABEL org.label-schema.vcs-ref="${VCS_REF}"
