@@ -1,4 +1,6 @@
-# Bulldohzer
+# Bulldohzer (FORK)
+
+## ***In case [link to documentation](https://help.commons.host/bulldohzer/cli/) is not working, try the [Wayback Machine](https://web.archive.org/web/20210515162023/https://help.commons.host/bulldohzer/cli/).***
 
 **Bulldohzer** is a performance measurement tool for DNS. It supports DNS-over-HTTPS (DoH) and DNS-over-UDP (Do53).
 
